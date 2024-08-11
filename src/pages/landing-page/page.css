@@ -1,0 +1,16 @@
+body {
+    background-color: aquamarine;
+    background-image: url('../assets/backgroundgreen.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+button {
+    background-color: #ff0000;
+    color: #ffffff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
